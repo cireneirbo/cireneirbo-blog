@@ -1,0 +1,10 @@
+{
+  "name": "cireneirbo",
+  "homepage": "https://www.cireneirbo.com/",
+  "author": "Eric O'Brien",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "npm start"
+  }
+}
